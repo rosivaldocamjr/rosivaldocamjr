@@ -21,3 +21,7 @@ https://rosivaldocamjr.github.io/catalogodecarros/
 **Formulário de Login Responsivo** usando Html e Css.<br>
 Responsividade configurada para Todos os tamanhos.<br>
 https://rosivaldocamjr.github.io/Projeto-Formulario-Login/
+
+**Página de Cadastro Responsivo** usando Html e Css.<br>
+Responsividade configurada para Todos os tamanhos.<br>
+https://rosivaldocamjr.github.io/Pagina-Cadastro-Responsivo/
