@@ -27,4 +27,4 @@ Responsividade configurada para Todos os tamanhos.<br>
 https://rosivaldocamjr.github.io/Pagina-Cadastro-Responsivo/
 
 **Formulário de Clientes para Desktop** usando Html e Css.<br>
-Url: https://rosivaldocamjr.github.io/Formulario-Clientes-Desktop/
+https://rosivaldocamjr.github.io/Formulario-Clientes-Desktop/
