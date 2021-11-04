@@ -25,3 +25,6 @@ https://rosivaldocamjr.github.io/Projeto-Formulario-Login/
 **Página de Cadastro Responsivo** usando Html e Css.<br>
 Responsividade configurada para Todos os tamanhos.<br>
 https://rosivaldocamjr.github.io/Pagina-Cadastro-Responsivo/
+
+**Formulário de Clientes para Desktop** usando Html e Css.<br>
+Url: https://rosivaldocamjr.github.io/Formulario-Clientes-Desktop/
