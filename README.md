@@ -1,8 +1,6 @@
-**Formado em Análise e Desenvolvimento de Sistemas.**
+# Formado em Análise e Desenvolvimento de Sistemas.
 
-**Estudando as Linguagens JavaScript, Html e Css.**
-
-# Meus Projetos:
+## Meus Projetos:
 
 **Lâmpada** feito com Html, Css e JavaScript.<br>
 https://rosivaldocamjr.github.io/Projeto-Lampada/
