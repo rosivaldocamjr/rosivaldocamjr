@@ -1,14 +1,17 @@
 # Formado em Análise e Desenvolvimento de Sistemas.
+## Meus Projetos:<br>
+**Portfólio Fictício Responsivo** usando Html e Css.<br>
+Aplicando conceitos de UX/UI Design.<br>
+Responsividade configurada para Todos os Tamanhos.<br>
+https://rosivaldocamjr.github.io/Projeto-portfolio-ficticio/
 
-## Meus Projetos:
-
-**Lâmpada** feito com Html, Css e JavaScript.<br>
+**Lâmpada** usando Html, Css e JavaScript.<br>
 https://rosivaldocamjr.github.io/Projeto-Lampada/
 
-**Calculadora** feito com Html, Css e JavaScript.<br>
+**Calculadora** usando Html, Css e JavaScript.<br>
 https://rosivaldocamjr.github.io/Calculadora/
 
-**Site Android** feito com Html e Css.<br>
+**Site Android** usando Html e Css.<br>
 Responsividade configurada para Todos os tamanhos.<br>
 https://rosivaldocamjr.github.io/Site-Android/
 
