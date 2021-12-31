@@ -1,4 +1,4 @@
-# Formado em Análise e Desenvolvimento de Sistemas
+# Formado em Análise e Desenvol. de Sistemas
 ## Html, Css, JavaScript, React
 # ⇊ Meus Projetos:<br>
 ▶ **Site Animais Fantásticos (EM CONSTRUÇÃO)** usando Html, Css e JavaScript.<br>
