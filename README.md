@@ -1,6 +1,9 @@
 # Formado em Análise e Desenvol. de Sistemas
 ## Html, Css, JavaScript, React
 # ⇊ Meus Projetos:<br>
+▶ **Site Todo List React** usando React, TypeScript, Html e Css.<br>
+https://github.com/rosivaldocamjr/Projeto-todo-list-react
+
 ▶ **Site Animais Fantásticos (EM CONSTRUÇÃO)** usando Html, Css e JavaScript.<br>
 https://rosivaldocamjr.github.io/Projeto-Animais-Fantasticos/
 
