@@ -1,6 +1,9 @@
 # Formado em Análise e Desenvol. de Sistemas
 ## Html, Css, JavaScript, React
 # ⇊ Meus Projetos:<br>
+▶ **Sistema de Finanças - Expense Tracker** usando React, TypeScript, Html e Css.<br>
+https://github.com/rosivaldocamjr/Projeto-Expense-Tracker
+
 ▶ **Site Todo List React** usando React, TypeScript, Html e Css.<br>
 https://github.com/rosivaldocamjr/Projeto-todo-list-react
 
