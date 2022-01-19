@@ -1,6 +1,9 @@
 # Formado em Análise e Desenvol. de Sistemas
 ## Html, Css, JavaScript, React
 # ⇊ Meus Projetos:<br>
+▶ **Projeto Lista de Tarefas 2.0** usando React, JavaScript, Html e Css.<br>
+https://github.com/rosivaldocamjr/todo_list_2.0
+
 ▶ **Galeria de Fotos** usando Firebase, React, TypeScript, Html e Css.<br>
 https://github.com/rosivaldocamjr/gallery
 
