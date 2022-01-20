@@ -1,5 +1,5 @@
 # Formado em Análise e Desenvol. de Sistemas
-## Html, Css, JavaScript, TypeScript e React
+## Estudando: Html, Css, JavaScript, TypeScript, NodeJs e React
 # ⇊ Meus Projetos:<br>
 ▶ **Projeto Tela de Atendimento Odontológico** usando JavaScript, Html e Css.<br>
 https://rosivaldocamjr.github.io/Tela-de-Atendimento/
