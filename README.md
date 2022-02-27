@@ -26,6 +26,10 @@ https://github.com/rosivaldocamjr/Projeto-Expense-Tracker
 https://github.com/rosivaldocamjr/Projeto-todo-list-react
 
 # Projetos com JavaScript
+➝ **Projeto da página inicial da Netflix** usando Html, Css, JavaScript e Jquery.<br>
+Responsividade configurada para Todos os Tamanhos.<br>
+https://rosivaldocamjr.github.io/Projeto_Interface_Netflix/
+
 ➝ **Projeto Tela de Atendimento Odontológico** usando JavaScript, Html e Css.<br>
 https://rosivaldocamjr.github.io/Tela-de-Atendimento/
 
