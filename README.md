@@ -26,6 +26,10 @@ https://github.com/rosivaldocamjr/Projeto-Expense-Tracker
 https://github.com/rosivaldocamjr/Projeto-todo-list-react
 
 # Projetos com JavaScript
+➝ **Projeto Soundboard do Naruto** usando Html, Css e JavaScript.<br>
+Responsividade configurada para Todos os Tamanhos.<br>
+https://rosivaldocamjr.github.io/Projeto_Naruto_Sound/
+
 ➝ **Projeto Jogo de Naves** usando Html, Css, JavaScript e Jquery.<br>
 Jogo feito para Desktop.<br>
 https://rosivaldocamjr.github.io/Projeto_Jogo_Naves/
