@@ -26,6 +26,10 @@ https://github.com/rosivaldocamjr/Projeto-Expense-Tracker
 https://github.com/rosivaldocamjr/Projeto-todo-list-react
 
 # Projetos com JavaScript
+➝ **Player de Música** usando Html, Css e JavaScript.<br>
+Responsividade configurada para Todos os Tamanhos.<br>
+https://rosivaldocamjr.github.io/Projeto_Player_Musica/
+
 ➝ **Projeto Soundboard do Naruto** usando Html, Css e JavaScript.<br>
 Responsividade configurada para Todos os Tamanhos.<br>
 https://rosivaldocamjr.github.io/Projeto_Naruto_Sound/
