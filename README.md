@@ -26,6 +26,9 @@ https://github.com/rosivaldocamjr/Projeto-Expense-Tracker
 https://github.com/rosivaldocamjr/Projeto-todo-list-react
 
 # Projetos com JavaScript
+➝ **Gerador de Senha** usando Html, Css e JavaScript.<br>
+https://rosivaldocamjr.github.io/Projeto_Gerador_Senha/
+
 ➝ **Player de Música** usando Html, Css e JavaScript.<br>
 Responsividade configurada para Todos os Tamanhos.<br>
 https://rosivaldocamjr.github.io/Projeto_Player_Musica/
