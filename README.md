@@ -26,6 +26,9 @@ https://github.com/rosivaldocamjr/Projeto-Expense-Tracker
 https://github.com/rosivaldocamjr/Projeto-todo-list-react
 
 # Projetos com JavaScript
+➝ **Jogo Dino** usando Html, Css e JavaScript.<br>
+https://rosivaldocamjr.github.io/Projeto_Jogo_Dino/
+
 ➝ **Gerador de Senha** usando Html, Css e JavaScript.<br>
 https://rosivaldocamjr.github.io/Projeto_Gerador_Senha/
 
