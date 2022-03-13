@@ -10,6 +10,11 @@ https://github.com/rosivaldocamjr/Projeto-Servidor-Node
 https://github.com/rosivaldocamjr/node
 
 # Projetos com React, TypeScript e JavaScript
+➝ **Buscador de Cep** usando React, JavaScript, Html e Css.<br>
+Responsividade configurada para Todos os Tamanhos.<br>
+Consumindo a API https://viacep.com.br/ws/
+https://github.com/rosivaldocamjr/projeto_buscador_cep
+
 ➝ **Projeto Jogo Rpg** usando React, TypeScript, Html e Css.<br>
 https://github.com/rosivaldocamjr/jogo-rpg
 
