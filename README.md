@@ -67,6 +67,9 @@ https://rosivaldocamjr.github.io/Projeto-Lampada/
 https://rosivaldocamjr.github.io/Calculadora/
 
 # Projetos com Html e Css
+➝ **Clone da página inicial do Youtube p/ desktop** usando Html e Css.<br>
+https://rosivaldocamjr.github.io/Projeto_Clone_Youtube/
+
 ➝ **Portfólio Fictício Responsivo** usando Html e Css.<br>
 Aplicando conceitos de UX/UI Design.<br>
 Responsividade configurada para Todos os Tamanhos.<br>
