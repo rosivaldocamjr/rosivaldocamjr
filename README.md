@@ -31,6 +31,9 @@ https://github.com/rosivaldocamjr/Projeto-Expense-Tracker
 https://github.com/rosivaldocamjr/Projeto-todo-list-react
 
 # Projetos com JavaScript
+➝ **Jogo Space Shooter** usando Html, Css e JavaScript.<br>
+https://rosivaldocamjr.github.io/Projeto_Space_Shooter/
+
 ➝ **Jogo Dino** usando Html, Css e JavaScript.<br>
 https://rosivaldocamjr.github.io/Projeto_Jogo_Dino/
 
