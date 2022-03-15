@@ -1,5 +1,5 @@
 #### 👨🏻‍🎓 Formado em Análise e Desenvol. de Sistemas
-#### 💾 Html, Css, JavaScript, TypeScript, NodeJs e React
+#### 💾 Html, Css, JavaScript, TypeScript, NodeJS, React, MySQL e MongoDB
 
 
 # Projetos com Node.js
