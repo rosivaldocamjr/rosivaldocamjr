@@ -27,64 +27,37 @@
 
 [Gerador de Senha - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Gerador_Senha)
 
-➝ **Player de Música** usando Html, Css e JavaScript.<br>
-Responsividade configurada para Todos os Tamanhos.<br>
-https://rosivaldocamjr.github.io/Projeto_Player_Musica/
+[Player de Música - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Player_Musica)
 
-➝ **Projeto Soundboard do Naruto** usando Html, Css e JavaScript.<br>
-Responsividade configurada para Todos os Tamanhos.<br>
-https://rosivaldocamjr.github.io/Projeto_Naruto_Sound/
+[Projeto Soundboard do Naruto - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Naruto_Sound)
 
-➝ **Projeto Jogo de Naves** usando Html, Css, JavaScript e Jquery.<br>
-Jogo feito para Desktop.<br>
-https://rosivaldocamjr.github.io/Projeto_Jogo_Naves/
+[Projeto Jogo de Naves - Html, Css, JavaScript e Jquery](https://github.com/rosivaldocamjr/Projeto_Jogo_Naves)
 
-➝ **Projeto da página inicial da Netflix** usando Html, Css, JavaScript e Jquery.<br>
-Responsividade configurada para Todos os Tamanhos.<br>
-https://rosivaldocamjr.github.io/Projeto_Interface_Netflix/
+[Projeto da página inicial da Netflix - Html, Css, JavaScript e Jquery](https://github.com/rosivaldocamjr/Projeto_Interface_Netflix)
 
-➝ **Projeto Tela de Atendimento Odontológico** usando JavaScript, Html e Css.<br>
-https://rosivaldocamjr.github.io/Tela-de-Atendimento/
+[Projeto Tela de Atendimento Odontológico - JavaScript, Html e Css](https://github.com/rosivaldocamjr/Tela-de-Atendimento)
 
-➝ **Site Animais Fantásticos (EM CONSTRUÇÃO)** usando Html, Css e JavaScript.<br>
-https://rosivaldocamjr.github.io/Projeto-Animais-Fantasticos/
+[Site Animais Fantásticos (EM CONSTRUÇÃO) - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto-Animais-Fantasticos)
 
-➝ **Jogo da Velha Desktop** usando Html, Css e JavaScript.<br>
-https://rosivaldocamjr.github.io/Jogo-da-velha/
+[Jogo da Velha Desktop - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Jogo-da-velha)
 
-➝ **Jogo Genius Desktop** usando Html, Css e JavaScript.<br>
-https://rosivaldocamjr.github.io/Jogo-Genius/
+[Jogo Genius Desktop - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Jogo-Genius)
 
-➝ **Lâmpada** usando Html, Css e JavaScript.<br>
-https://rosivaldocamjr.github.io/Projeto-Lampada/
+[Projeto Lâmpada - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto-Lampada)
 
-➝ **Calculadora** usando Html, Css e JavaScript.<br>
-https://rosivaldocamjr.github.io/Calculadora/
+[Calculadora - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Calculadora)
 
 # Projetos com Html e Css
-➝ **Clone da página inicial do Youtube p/ desktop** usando Html e Css.<br>
-https://rosivaldocamjr.github.io/Projeto_Clone_Youtube/
+[Clone da página inicial do Youtube p/ desktop - Html e Css](https://github.com/rosivaldocamjr/Projeto_Clone_Youtube)
 
-➝ **Portfólio Fictício Responsivo** usando Html e Css.<br>
-Aplicando conceitos de UX/UI Design.<br>
-Responsividade configurada para Todos os Tamanhos.<br>
-https://rosivaldocamjr.github.io/Projeto-portfolio-ficticio/
+[Portfólio Fictício Responsivo - Html e Css](https://github.com/rosivaldocamjr/Projeto-portfolio-ficticio)
 
-➝ **Site Android** usando Html e Css.<br>
-Responsividade configurada para Todos os tamanhos.<br>
-https://rosivaldocamjr.github.io/Site-Android/
+[Site Android - Html e Css](https://github.com/rosivaldocamjr/Site-Android)
 
-➝ **Catálogo de Carros** usando Html e Css.<br>
-Responsividade configurada para iPhone 6/7/8 Plus.<br>
-https://rosivaldocamjr.github.io/Catalogo-de-carros-site/
+[Catálogo de Carros - Html e Css](https://github.com/rosivaldocamjr/Catalogo-de-carros-site)
 
-➝ **Formulário de Login Responsivo** usando Html e Css.<br>
-Responsividade configurada para Todos os tamanhos.<br>
-https://rosivaldocamjr.github.io/Projeto-Formulario-Login/
+[Formulário de Login Responsivo - Html e Css](https://github.com/rosivaldocamjr/Projeto-Formulario-Login)
 
-➝ **Página de Cadastro Responsivo** usando Html e Css.<br>
-Responsividade configurada para Todos os tamanhos.<br>
-https://rosivaldocamjr.github.io/Pagina-Cadastro-Responsivo/
+[Página de Cadastro Responsivo - Html e Css](https://github.com/rosivaldocamjr/Pagina-Cadastro-Responsivo)
 
-➝ **Formulário de Clientes para Desktop** usando Html e Css.<br>
-https://rosivaldocamjr.github.io/Formulario-Clientes-Desktop/
+[Formulário de Clientes para Desktop - Html e Css](https://github.com/rosivaldocamjr/Formulario-Clientes-Desktop)
