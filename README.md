@@ -3,42 +3,29 @@
 
 
 # Projetos com Node.js
-➝ **Projeto Servidor Node e App de gerenciamento de memória RAM** usando Node.js e JavaScript.<br>
-https://github.com/rosivaldocamjr/Projeto-Servidor-Node
+[Projeto Servidor Node e App de gerenciamento de memória RAM](https://github.com/rosivaldocamjr/Projeto-Servidor-Node)
 
-➝ **Manipulação de Dados - Node e Mongodb** usando Node.js, Mongodb e JavaScript.<br>
-https://github.com/rosivaldocamjr/node
+[Manipulação de Dados - Nodejs, Mongodb e JavaScript](https://github.com/rosivaldocamjr/node)
 
 # Projetos com React, TypeScript e JavaScript
-➝ **Buscador de Cep** usando React, JavaScript, Html e Css.<br>
-Responsividade configurada para Todos os Tamanhos.<br>
-Consumindo a API https://viacep.com.br<br>
-https://github.com/rosivaldocamjr/projeto_buscador_cep
+[Buscador de Cep - React, JavaScript, Html e Css](https://github.com/rosivaldocamjr/projeto_buscador_cep)
 
-➝ **Projeto Jogo Rpg** usando React, TypeScript, Html e Css.<br>
-https://github.com/rosivaldocamjr/jogo-rpg
+[Projeto Jogo Rpg - React, TypeScript, Html e Css](https://github.com/rosivaldocamjr/jogo-rpg)
 
-➝ **Projeto Lista de Tarefas 2.0** usando React, JavaScript, Html e Css.<br>
-https://github.com/rosivaldocamjr/todo_list_2.0
+[Projeto Lista de Tarefas 2.0 - React, JavaScript, Html e Css](https://github.com/rosivaldocamjr/todo_list_2.0)
 
-➝ **Galeria de Fotos** usando Firebase, React, TypeScript, Html e Css.<br>
-https://github.com/rosivaldocamjr/gallery
+[Galeria de Fotos - Firebase, React, TypeScript, Html e Css](https://github.com/rosivaldocamjr/gallery)
 
-➝ **Sistema de Finanças - Expense Tracker** usando React, TypeScript, Html e Css.<br>
-https://github.com/rosivaldocamjr/Projeto-Expense-Tracker
+[Sistema de Finanças/Expense Tracker - React, TypeScript, Html e Css](https://github.com/rosivaldocamjr/Projeto-Expense-Tracker)
 
-➝ **Site Todo List React** usando React, TypeScript, Html e Css.<br>
-https://github.com/rosivaldocamjr/Projeto-todo-list-react
+[Site Todo List React - React, TypeScript, Html e Css](https://github.com/rosivaldocamjr/Projeto-todo-list-react)
 
 # Projetos com JavaScript
-➝ **Jogo Space Shooter** usando Html, Css e JavaScript.<br>
-https://rosivaldocamjr.github.io/Projeto_Space_Shooter/
+[Jogo Space Shooter - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Space_Shooter)
 
-➝ **Jogo Dino** usando Html, Css e JavaScript.<br>
-https://rosivaldocamjr.github.io/Projeto_Jogo_Dino/
+[Jogo Dino - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Jogo_Dino)
 
-➝ **Gerador de Senha** usando Html, Css e JavaScript.<br>
-https://rosivaldocamjr.github.io/Projeto_Gerador_Senha/
+[Gerador de Senha - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Gerador_Senha)
 
 ➝ **Player de Música** usando Html, Css e JavaScript.<br>
 Responsividade configurada para Todos os Tamanhos.<br>
