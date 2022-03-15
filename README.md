@@ -8,7 +8,7 @@
 [Manipulação de Dados - Nodejs, Mongodb e JavaScript](https://github.com/rosivaldocamjr/node)
 
 # Projetos com React, TypeScript e JavaScript
-[Buscador de Cep - React, JavaScript, Html e Css](https://github.com/rosivaldocamjr/projeto_buscador_cep)
+[Buscador de Cep - React, JavaScript, Html, Css e API](https://github.com/rosivaldocamjr/projeto_buscador_cep)
 
 [Projeto Jogo Rpg - React, TypeScript, Html e Css](https://github.com/rosivaldocamjr/jogo-rpg)
 
