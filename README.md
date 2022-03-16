@@ -1,6 +1,5 @@
-#### 👨🏻‍🎓 Formado em Análise e Desenvol. de Sistemas
-#### 💾 Html, Css, JavaScript, TypeScript, NodeJS, React, MySQL e MongoDB
-
+👨🏻‍🎓 Formado em Análise e Desenvol. de Sistemas<br>
+💾 Html, Css, JavaScript, TypeScript, NodeJS, React, MySQL e MongoDB<br><br>
 
 # Projetos com Node.js
 [Projeto Servidor Node e App de gerenciamento de memória RAM](https://github.com/rosivaldocamjr/Projeto-Servidor-Node)
@@ -8,6 +7,8 @@
 [Manipulação de Dados - Nodejs, Mongodb e JavaScript](https://github.com/rosivaldocamjr/node)
 
 # Projetos com React, TypeScript e JavaScript
+[Projeto Calculadora - React, JavaScript, Html e Css](https://github.com/rosivaldocamjr/projeto_calculadora_react)
+
 [Buscador de Cep - React, JavaScript, Html, Css e API](https://github.com/rosivaldocamjr/projeto_buscador_cep)
 
 [Projeto Jogo Rpg - React, TypeScript, Html e Css](https://github.com/rosivaldocamjr/jogo-rpg)
