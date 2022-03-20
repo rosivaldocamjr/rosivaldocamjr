@@ -22,6 +22,8 @@
 [Site Todo List React - React, TypeScript, Html e Css](https://github.com/rosivaldocamjr/Projeto-todo-list-react)
 
 # Projetos com JavaScript
+[Projeto Aprender Cores em Inglês com Reconhecimento de Voz - Html, Css, JavaScript e API Web Speech](https://github.com/rosivaldocamjr/Projeto_Reconhecimento_Voz)
+
 [Jogo Space Shooter - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Space_Shooter)
 
 [Jogo Dino - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Jogo_Dino)
