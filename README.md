@@ -1,5 +1,6 @@
 👨🏻‍🎓 Formado em Análise e Desenvol. de Sistemas<br>
-💾 Html, Css, JavaScript, TypeScript, NodeJS, ReactJS, React Native, MySQL, MongoDB e SQL SERVER<br><br>
+💾 Estudando: Html, Css, JavaScript, ReactJS, MySQL, MongoDB e SQL SERVER<br>
+📒 Conhecimento em: Jquery, Bootstrap, TypeScript, NodeJS, React Native, .NET e C#<br><br>
 
 # Projetos com Node.js
 [Projeto Servidor Node e App de gerenciamento de memória RAM](https://github.com/rosivaldocamjr/Projeto-Servidor-Node)
