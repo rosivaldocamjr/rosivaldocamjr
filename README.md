@@ -2,6 +2,9 @@
 💾 Estudando: Html, Css, JavaScript, ReactJS, MySQL, MongoDB e SQL SERVER<br>
 📒 Conhecimento em: Jquery, Bootstrap, TypeScript, NodeJS, React Native, .NET e C#<br><br>
 
+# Projetos com .NET e C#
+[Projeto DIO Abstracao de um Jogo Rpg usando .NET e C#](https://github.com/rosivaldocamjr/Jogo_Rpg)
+
 # Projetos com Node.js
 [Projeto Servidor Node e App de gerenciamento de memória RAM](https://github.com/rosivaldocamjr/Projeto-Servidor-Node)
 
