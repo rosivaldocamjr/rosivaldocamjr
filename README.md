@@ -2,6 +2,9 @@
 💾 Estudando: Html, Css, JavaScript, ReactJS, MySQL, MongoDB e SQL SERVER<br>
 📒 Conhecimento em: Jquery, Bootstrap, TypeScript, NodeJS, React Native, .NET e C#<br><br>
 
+# ⭐️ Projetos Mais Importantes ⭐️
+[JavaScript para Burros - Documentação com o objetivo de ensinar/explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Burros)
+
 # Projetos com .NET e C#
 [Projeto DIO Abstracao de um Jogo Rpg usando .NET e C#](https://github.com/rosivaldocamjr/Jogo_Rpg)
 
