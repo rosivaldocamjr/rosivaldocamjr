@@ -8,6 +8,8 @@
 # Projetos com .NET e C#
 [Projeto DIO Abstracao de um Jogo Rpg usando .NET e C#](https://github.com/rosivaldocamjr/Jogo_Rpg)
 
+[Projeto de Cadastro de Séries usando .NET e C#](https://github.com/rosivaldocamjr/Cadastro_Series)
+
 # Projetos com Node.js
 [Projeto Servidor Node e App de gerenciamento de memória RAM](https://github.com/rosivaldocamjr/Projeto-Servidor-Node)
 
