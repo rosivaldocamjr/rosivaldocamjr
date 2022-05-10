@@ -33,6 +33,8 @@
 [Site Todo List React - React, TypeScript, Html e Css](https://github.com/rosivaldocamjr/Projeto-todo-list-react)
 
 # Projetos com JavaScript
+[Projeto Card Mágico - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Card_Magico)
+
 [Projeto Aprender Cores em Inglês com Reconhecimento de Voz - Html, Css, JavaScript e API Web Speech](https://github.com/rosivaldocamjr/Projeto_Reconhecimento_Voz)
 
 [Jogo Space Shooter - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Projeto_Space_Shooter)
