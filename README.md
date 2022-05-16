@@ -5,6 +5,9 @@
 # ⭐️ Projetos Mais Importantes ⭐️
 [JavaScript para Leigos - Documentação com o objetivo de ensinar/explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Leigos)
 
+# Projetos com Java e Spring Boot
+[Projeto DIO Academia Digital usando Java, Spring Boot, PostgreSQL e Postman](https://github.com/rosivaldocamjr/academia-digital-1.0.0)
+
 # Projetos com .NET e C#
 [Projeto DIO Abstracao de um Jogo Rpg usando .NET e C#](https://github.com/rosivaldocamjr/Jogo_Rpg)
 
