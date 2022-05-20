@@ -5,6 +5,9 @@
 # ⭐️ Projetos Mais Importantes ⭐️
 [JavaScript para Leigos - Documentação com o objetivo de ensinar/explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Leigos)
 
+# Projetos com React Native
+[Projeto Lanterna para celular com sensor de movimento usando React Native](https://github.com/rosivaldocamjr/flashlight)
+
 # Projetos com Java e Spring Boot
 [Projeto DIO Academia Digital usando Java, Spring Boot, PostgreSQL e Postman](https://github.com/rosivaldocamjr/academia-digital-1.0.0)
 
