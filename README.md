@@ -22,6 +22,8 @@
 [Manipulação de Dados - Nodejs, Mongodb e JavaScript](https://github.com/rosivaldocamjr/node)
 
 # Projetos com React, TypeScript e JavaScript
+[Projeto Todo (Lista de Tarefas) com API ficticia "json server" - React e JavaScript](https://github.com/rosivaldocamjr/todo)
+
 [Projeto App Covid19 - React e JavaScript](https://github.com/rosivaldocamjr/app-covid19)
 
 [Projeto Calculadora - React, JavaScript, Html e Css](https://github.com/rosivaldocamjr/projeto_calculadora_react)
