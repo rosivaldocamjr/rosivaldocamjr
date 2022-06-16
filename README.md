@@ -1,6 +1,6 @@
 👨🏻‍🎓 Formado em Análise e Desenvol. de Sistemas<br>
-💾 Main skills: Html, Css, JavaScript, ReactJS, MySQL, MongoDB e SQL SERVER<br>
-📒 Knowledge in: Jquery, Bootstrap, TypeScript, NodeJS, React Native, .NET, C#, PostgreSQL, Postman, Spring Boot e Java<br><br>
+💾 Main skills: Html, Css, JavaScript, ReactJS e NodeJS<br>
+📒 Knowledge in: Jquery, Bootstrap, TypeScript, React Native, .NET, C#, PostgreSQL, MySQL, MongoDB, SQL SERVER, Postman, Spring Boot e Java<br><br>
 
 # ⭐️ Projetos Mais Importantes ⭐️
 [JavaScript para Leigos - Documentação com o objetivo de ensinar/explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Leigos)
