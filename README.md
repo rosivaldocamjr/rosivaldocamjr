@@ -74,6 +74,8 @@
 [Calculadora - Html, Css e JavaScript](https://github.com/rosivaldocamjr/Calculadora)
 
 # Projetos com Html e Css
+[Projeto Flex - Estudando Flexbox - Html e Css](https://github.com/rosivaldocamjr/Projeto-Flex)
+
 [Tela Inicial do Instagram Responsivo - Html e Css](https://github.com/rosivaldocamjr/Instagram-Inicial)
 
 [Clone da página inicial do Youtube p/ desktop - Html e Css](https://github.com/rosivaldocamjr/Projeto_Clone_Youtube)
