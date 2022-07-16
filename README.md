@@ -4,6 +4,7 @@
 
 # ⭐️ Projetos Mais Importantes ⭐️
 [JavaScript para Leigos - Documentação com o objetivo de explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Leigos)
+
 [React para Leigos - Documentação com o objetivo de explicar a biblioteca ReactJS da forma mais simples possível](https://github.com/rosivaldocamjr/React_para_Leigos)
 
 # Projetos com React Native
