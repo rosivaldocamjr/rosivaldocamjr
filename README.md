@@ -3,7 +3,8 @@
 📒 Knowledge in: Angular, Jquery, Bootstrap, TypeScript, React Native, .NET, C#, PostgreSQL, MySQL, MongoDB, SQL SERVER, Postman, Spring Boot e Java<br><br>
 
 # ⭐️ Projetos Mais Importantes ⭐️
-[JavaScript para Leigos - Documentação com o objetivo de ensinar/explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Leigos)
+[JavaScript para Leigos - Documentação com o objetivo de explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Leigos)
+[React para Leigos - Documentação com o objetivo de explicar a biblioteca ReactJS da forma mais simples possível](https://github.com/rosivaldocamjr/React_para_Leigos)
 
 # Projetos com React Native
 [Projeto Lanterna para celular com sensor de movimento usando React Native](https://github.com/rosivaldocamjr/flashlight)
