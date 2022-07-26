@@ -7,6 +7,9 @@
 
 [React para Leigos - Documentação com o objetivo de explicar a biblioteca ReactJS da forma mais simples possível](https://github.com/rosivaldocamjr/React_para_Leigos)
 
+# API's
+[API feita com Adonis](https://github.com/rosivaldocamjr/api_adonis)
+
 # Projetos com Angular
 [Rede Social Moments com API Adonis usando Angular](https://github.com/rosivaldocamjr/moments)
 
