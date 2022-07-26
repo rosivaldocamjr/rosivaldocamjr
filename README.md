@@ -7,6 +7,9 @@
 
 [React para Leigos - Documentação com o objetivo de explicar a biblioteca ReactJS da forma mais simples possível](https://github.com/rosivaldocamjr/React_para_Leigos)
 
+# Projetos com Angular
+[Rede Social Moments com API Adonis usando Angular](https://github.com/rosivaldocamjr/moments)
+
 # Projetos com React Native
 [Projeto Lanterna para celular com sensor de movimento usando React Native](https://github.com/rosivaldocamjr/flashlight)
 
