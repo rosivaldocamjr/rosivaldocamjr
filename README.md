@@ -2,7 +2,7 @@
 💾 Main skills: Html, Css, JavaScript, ReactJS e NodeJS<br>
 📒 Knowledge in: Linux, Angular, Jquery, Bootstrap, TypeScript, React Native, .NET, C#, PostgreSQL, MySQL, MongoDB, SQL SERVER, Postman, Spring Boot e Java<br><br>
 
-# ⭐️ Projetos Mais Importantes ⭐️
+# ⭐️ Projetos Educacionais
 [JavaScript para Leigos - Documentação com o objetivo de explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Leigos)
 
 [React para Leigos - Documentação com o objetivo de explicar a biblioteca ReactJS da forma mais simples possível](https://github.com/rosivaldocamjr/React_para_Leigos)
