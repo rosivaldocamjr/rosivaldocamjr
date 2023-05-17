@@ -1,6 +1,11 @@
-👨🏻‍🎓 Formado em Análise e Desenvol. de Sistemas<br>
-💾 Main skills: Html, Css, JavaScript, ReactJS e NodeJS<br>
-📒 Knowledge in: Linux, Angular, Jquery, Bootstrap, TypeScript, React Native, .NET, C#, PostgreSQL, MySQL, MongoDB, SQL SERVER, Postman, Spring Boot e Java<br><br>
+👨🏻‍🎓 Formado em Análise e Desenvol. de Sistemas<br><br>
+➞ Engenharia de Software, Projeto de Software, UML, Modelagem de Banco de Dados, Scrum<br>
+➞ Html, Css, Bootstrap, React, Angular, Vue.js, Spring Boot<br>
+➞ JavaScript, Java, C#, TypeScript<br>
+➞ Oracle Database, MySQL, MongoDB, PostgreSQL, Sql Server<br>
+➞ Mainframe, Natural/Adabas<br>
+➞ Git, Gitlab, Github, Docker<br>
+➞ Eclipse, Visual Studio Code<br><br>
 
 # ⭐️ Projetos Educacionais
 [JavaScript para Leigos - Documentação com o objetivo de explicar a linguagem da forma mais simples possível](https://github.com/rosivaldocamjr/JavaScript_para_Leigos)
