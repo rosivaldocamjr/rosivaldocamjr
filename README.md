@@ -12,7 +12,7 @@
 
 [React para Leigos - Documentação com o objetivo de explicar a biblioteca ReactJS da forma mais simples possível](https://github.com/rosivaldocamjr/React_para_Leigos)
 
-[Instalação, Configuração e Material da linguagem Natural e o banco de dados Adabas](https://github.com/rosivaldocamjr/natural_adabas)
+[Instalação, Configuração e Material da linguagem Natural e do banco Adabas](https://github.com/rosivaldocamjr/natural_adabas)
 
 # API's
 [API feita com Adonis](https://github.com/rosivaldocamjr/api_adonis)
