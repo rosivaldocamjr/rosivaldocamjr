@@ -11,3 +11,5 @@
 - [DownloadYoutube (Flask) - Uma aplicação web simples e eficiente construída com Python e Flask para baixar vídeos do YouTube.](https://github.com/rosivaldocamjr/downloadyoutube)
 
 - [Uma aplicação simples em Streamlit que busca e exibe letras de músicas consumindo a API pública lyrics.ovh.](https://github.com/rosivaldocamjr/letrasmusicas)
+
+- [Projeto para corte e processamento de vídeos com interface web.](https://github.com/rosivaldocamjr/cortavideo)
