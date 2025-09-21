@@ -13,3 +13,5 @@
 - [Uma aplicação simples em Streamlit que busca e exibe letras de músicas consumindo a API pública lyrics.ovh.](https://github.com/rosivaldocamjr/letrasmusicas)
 
 - [Projeto para corte e processamento de vídeos com interface web.](https://github.com/rosivaldocamjr/cortavideo)
+
+- [Ler notas fiscais (NFe e NFS‑e), extrair campos-chave e gerar uma planilha Excel consolidada.](https://github.com/rosivaldocamjr/notafiscalxml)
