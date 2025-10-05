@@ -15,3 +15,5 @@
 - [Projeto para corte e processamento de vídeos com interface web.](https://github.com/rosivaldocamjr/cortavideo)
 
 - [Ler notas fiscais (NFe e NFS‑e), extrair campos-chave e gerar uma planilha Excel consolidada.](https://github.com/rosivaldocamjr/notafiscalxml)
+
+- [Sistema de Perguntas e Respostas que utiliza a arquitetura RAG. O objetivo é permitir que os usuários façam perguntas sobre o medicamento Minoxidil e recebam respostas precisas](https://github.com/rosivaldocamjr/rag-monoxidil)
