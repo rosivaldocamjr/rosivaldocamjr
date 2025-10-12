@@ -4,9 +4,9 @@
 
 # Python
 
-- [AutoMail-Sales-Consolidator - Um script que une arquivos CSV de vendas em uma única planilha Excel e envia o relatório por e-mail automaticamente via Outlook](https://github.com/rosivaldocamjr/AutoMail-Sales-Consolidator)
+- [AutoMail-Sales-Consolidator - Um script que une arquivos CSV de vendas em uma única planilha Excel e envia o relatório por e-mail automaticamente via Outlook.](https://github.com/rosivaldocamjr/AutoMail-Sales-Consolidator)
 
-- [Assistente RAG especialista no OWASP ASVS que usa busca híbrida e re-ranking para respostas precisas sobre segurança de aplicações](https://github.com/rosivaldocamjr/rag)
+- [Assistente RAG especialista no OWASP ASVS que usa busca híbrida e re-ranking para respostas precisas sobre segurança de aplicações.](https://github.com/rosivaldocamjr/rag)
 
 - [DownloadYoutube (Flask) - Uma aplicação web simples e eficiente construída com Python e Flask para baixar vídeos do YouTube.](https://github.com/rosivaldocamjr/downloadyoutube)
 
@@ -16,4 +16,6 @@
 
 - [Ler notas fiscais (NFe e NFS‑e), extrair campos-chave e gerar uma planilha Excel consolidada.](https://github.com/rosivaldocamjr/notafiscalxml)
 
-- [Sistema de Perguntas e Respostas que utiliza a arquitetura RAG. O objetivo é permitir que os usuários façam perguntas sobre o medicamento Minoxidil e recebam respostas precisas](https://github.com/rosivaldocamjr/rag-monoxidil)
+- [Sistema de Perguntas e Respostas que utiliza a arquitetura RAG. O objetivo é permitir que os usuários façam perguntas sobre o medicamento Minoxidil e recebam respostas precisas.](https://github.com/rosivaldocamjr/rag-monoxidil)
+
+- [Projeto de Machine Learning simples que utiliza regressão linear para prever o preço de uma pizza com base em seu diâmetro.](https://github.com/rosivaldocamjr/ml)
